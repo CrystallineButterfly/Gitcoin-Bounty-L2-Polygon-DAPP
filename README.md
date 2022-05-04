@@ -1,13 +1,25 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
 
-> Description the project.
+# Gitcoin Polygon Bounty; for the L2 rollathon. 
+
+> Hi there,
+> This project is for a polygon gitcoin bounty, to create a DAPP, 
+> that serves as a learn to earn API, functioning on the polygon blockchain. 
+
+
+## Challenge description directly from the bounty github;
+
+Build a scalable decentralized DeFi/NFT/Gaming dapp on Polygon on Polygon PoS chain.
+Some ideas:
+A Learn to Earn Dapp on Polygon which verifies certain smart contract parameters and rewards the user automatically on matching those parameters.
+A fractionalized NFT marketplace with lending and borrowing capabilities.
+Decentralized Creator Support Platform- A decentralized version of Patreon to support your favorite creators and influencers on Polygon.
+A Web3 Social media platform using Lens protocol.
 
 
 ## Built With
 
-- Major languages
+- Next.js
 - Frameworks
 - Technologies used
 
