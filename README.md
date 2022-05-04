@@ -19,9 +19,9 @@ A Web3 Social media platform using Lens protocol.
 
 ## Built With
 
-- Next.js
-- Frameworks
-- Technologies used
+- VS code
+- React
+- Polygon
 
 ## Live Demo (if available)
 
